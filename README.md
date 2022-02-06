@@ -2,7 +2,7 @@
 
 ![IAMDinosaur](https://raw.githubusercontent.com/ivanseidel/IAMDinosaur/master/assets/top_score.png)
 
-A simple artificial intelligence to teach Google Chrome's offline dinosaur to
+It is a simple artificial intelligence to teach Google Chrome's offline dinosaur to
 jump cactus, using Neural Networks and a simple Genetic Algorithm.
 
 **Watch** this video to see it in action, and learn how it works: [Artificial Intelligence with Google's Dinosaur](https://youtu.be/P7XHzqZjXQs)
